@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".admin.homeFragment_admin">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="?attr/actionBarTheme"
+        android:layout_alignParentTop="true"
+        android:backgroundTint="@color/mintgreen">
+        <TextView
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Home"
+            />
+
+        <ImageView
+            android:id="@+id/notif_button"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/notification"
+            android:contentDescription="Notification"
+            android:layout_marginStart="205dp" />
+        <ImageView
+            android:id="@+id/profile_button"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/profile"
+            android:contentDescription="Profile"
+            android:layout_marginStart="8dp"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:elevation="10dp"
+        android:layout_marginTop="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                android:layout_width="390dp"
+                android:layout_height="48dp"
+                android:text="Appoinment Booking"
+                android:textSize="15sp"/>
+
+            <CalendarView
+                android:id="@+id/calendarView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:showWeekNumber="false" />
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

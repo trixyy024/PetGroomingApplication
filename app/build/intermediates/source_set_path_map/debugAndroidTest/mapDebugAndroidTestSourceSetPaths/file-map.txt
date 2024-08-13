@@ -1,0 +1,5 @@
+com.project.petgroomingapp.test.app-androidTest-0 C:\PetGroomingApp\app\build\generated\res\resValues\androidTest\debug
+com.project.petgroomingapp.test.app-mergeDebugAndroidTestResources-1 C:\PetGroomingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.project.petgroomingapp.test.app-mergeDebugAndroidTestResources-2 C:\PetGroomingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.project.petgroomingapp.test.app-debugAndroidTest-3 C:\PetGroomingApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.project.petgroomingapp.test.app-core-1.6.1-4 C:\Users\Acer\.gradle\caches\transforms-4\3e3e323789fe1aacbdb7b68400f5ca23\transformed\core-1.6.1\res

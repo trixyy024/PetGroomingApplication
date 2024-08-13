@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_customer_dashboard.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_customer_dashboard.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/menu_bottom_navmenu_groomer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/menu/bottom_navmenu_groomer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_messages.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/messages.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_otplogo.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/otplogo.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_circular_bg.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/circular_bg.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_notification.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/notification.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/menu_bottom_navemenu_admin.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/menu/bottom_navemenu_admin.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_registering_personal_information.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_registering_personal_information.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_dogcatdashboard.jpg.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/dogcatdashboard.jpg"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_splash.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_bg_arrays_usertype.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/bg_arrays_usertype.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_profile.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/profile.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_product_item_background.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/product_item_background.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_calendar_admin.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_calendar_admin.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_cashh.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/cashh.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_iconpassword.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/iconpassword.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/menu_bottom_navmenu_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/menu/bottom_navmenu_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_tab_selector.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_cart.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/cart.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_services_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_services_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_services_list.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/services_list.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_edit_text_rounded_corner.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/edit_text_rounded_corner.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_account_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_account_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_item_product.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_historytransaction.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/historytransaction.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_tab_default_background.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/tab_default_background.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/xml_network_security_config.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_tab_background_selector.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/tab_background_selector.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_gmail.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/gmail.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_baseline_arrow_drop_down_24.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_google.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/google.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_phone.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/phone.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_trexie.jpg.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/trexie.jpg"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_messages_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_messages_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_tab_text_selector.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/tab_text_selector.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_registration.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_home.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/home.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_circleshape.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/circleshape.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_logootp.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/logootp.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_rocky.jpg.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/rocky.jpg"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_tab_select_background.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/tab_select_background.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_dropdown.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/dropdown.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_createmsg.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/createmsg.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_plus.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/plus.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_account.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/account.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_adress.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/adress.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_calendar.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_products_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_products_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_home_admin.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_home_admin.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_otp_verification.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_otp_verification.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_gcashlogo.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/gcashlogo.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.petgroomingapp-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_payment.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/payment.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_registering_account.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_registering_account.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_gclogo.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/gclogo.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_payment_customer.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_payment_customer.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_book_now.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_book_now.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_activity_groomer_dashboard.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/activity_groomer_dashboard.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_iconperson.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/iconperson.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_back.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/back.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_fragment_home_customer_dashboard.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/fragment_home_customer_dashboard.xml"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/drawable_mintgreenbg.png.flat",
+        "source": "com.project.petgroomingapp-main-7:/drawable/mintgreenbg.png"
+    },
+    {
+        "merged": "com.project.petgroomingapp-debug-5:/layout_bottomnav_item.xml.flat",
+        "source": "com.project.petgroomingapp-main-7:/layout/bottomnav_item.xml"
+    }
+]

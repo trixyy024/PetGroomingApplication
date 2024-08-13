@@ -1,0 +1,61 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.project.petgroomingapp'
+    compileSdk 33
+   // compileSdkPreview = "VanillaIceCream"
+
+    defaultConfig {
+        applicationId "com.project.petgroomingapp"
+        minSdk 28
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.activity
+    implementation libs.constraintlayout
+    implementation libs.firebase.auth
+    implementation libs.firebase.database
+    implementation libs.runtime.android
+    implementation libs.play.services.auth
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+    implementation 'com.github.dhaval2404:imagepicker:2.1'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+    implementation 'com.hbb20:ccp:2.5.0'
+    //implementation 'com.google.firebase:firebase-analytics'
+
+    implementation "androidx.credentials:credentials:1.5.0-alpha03"
+    implementation 'com.google.android.libraries.identity.googleid:googleid:1.1.1'
+    implementation 'com.kizitonwose.calendar:view:2.6.0-beta02'
+    implementation libs.firebase.firestore
+
+    implementation libs.play.services.auth.v2101
+
+
+
+}

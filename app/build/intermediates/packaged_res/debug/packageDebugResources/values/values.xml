@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_types">
+        <item>Admin</item>
+        <item>Groomer</item>
+        <item>Customer</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="black_transparent"> #d6d6d6</color>
+    <color name="green">#74B7A0</color>
+    <color name="mintgreen">#F0FFF7</color>
+    <color name="offwhite">#FDFDFD</color>
+    <color name="primarycolor">#F0FFF7</color>
+    <color name="red">#ff0000</color>
+    <color name="secondarycolor">#74B7A0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Createacc">Create account</string>
+    <string name="Forgotpassword">Forgot password</string>
+    <string name="Login">Log in</string>
+    <string name="account">Account</string>
+    <string name="app_name">GroomConnect</string>
+    <string name="default_web_client_id" translatable="false">602549282267-cj2t5gv9o4foub04d8i1g86mjs8tpkff.apps.googleusercontent.com</string>
+    <string name="didnt_rcv_code">Didnt recieved code? </string>
+    <string name="enter_otp">Enter OTP sent to</string>
+    <string name="fullname">Full name</string>
+    <string name="gcm_defaultSenderId" translatable="false">602549282267</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7jh4FLAbeax0xslMoZOyrkTtQcXbPklk</string>
+    <string name="google_app_id" translatable="false">1:602549282267:android:73b251c848a321df27f3fe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7jh4FLAbeax0xslMoZOyrkTtQcXbPklk</string>
+    <string name="google_storage_bucket" translatable="false">authentication-6060c.appspot.com</string>
+    <string name="haveaccount">Have an account? Log in.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="homeaddress">Home address</string>
+    <string name="income">Income</string>
+    <string name="loginas">Log in as</string>
+    <string name="message">Messages</string>
+    <string name="or">OR</string>
+    <string name="otp_ver_code">OTP Verification</string>
+    <string name="password">Password</string>
+    <string name="payment">Payment</string>
+    <string name="phonenumber">Phone number</string>
+    <string name="project_id" translatable="false">authentication-6060c</string>
+    <string name="rememberme">Remember me</string>
+    <string name="repeatpassword">Repeat password</string>
+    <string name="resend">RESEND OTP</string>
+    <string name="termsandcondition">By clicking the sign-up button,
+        you agree to our Privacy Policy, Terms and Conditions.</string>
+    <string name="username">Username</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/mintgreen</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/offwhite</item>
+    </style>
+    <style name="Base.Theme.PetgroomingApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CircleImageView" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="CustomDatePicker" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColor">@color/mintgreen</item>
+    </style>
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:datePickerDialogTheme">@style/CustomDatePicker</item>
+    </style>
+    <style name="CustomTimePicker" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColor">@color/mintgreen</item>
+    </style>
+    <style name="CustomTimePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:timePickerDialogTheme">@style/CustomTimePicker</item>
+    </style>
+    <style name="Theme.PetgroomingApp" parent="Base.Theme.PetgroomingApp"/>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">10sp</item> 
+        <item name="android:textStyle">bold</item> 
+        <item name="android:fontFamily">@font/</item> 
+        <item name="android:textColor">@color/black</item> 
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602549282267",
+    "project_id": "authentication-6060c",
+    "storage_bucket": "authentication-6060c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602549282267:android:73b251c848a321df27f3fe",
+        "android_client_info": {
+          "package_name": "com.project.petgroomingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602549282267-fusq9cu102vhpbu96tpvcp6jnusuvu9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.petgroomingapp",
+            "certificate_hash": "fe97e2c33e8dacece233cbe5e411927d980c7df0"
+          }
+        },
+        {
+          "client_id": "602549282267-cj2t5gv9o4foub04d8i1g86mjs8tpkff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jh4FLAbeax0xslMoZOyrkTtQcXbPklk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602549282267-cj2t5gv9o4foub04d8i1g86mjs8tpkff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
